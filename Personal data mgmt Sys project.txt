@@ -1,0 +1,21 @@
+Personal Data Management System Project
+
+
+1) Create a customers table that contains 
+	customer_id
+	first_name
+	last_name
+	email
+	phone
+	company
+
+2)And a Python program with a menu:
+	1. Add customer
+	2. Find customer
+	3. Update customer
+	4. Delete customer
+	5. Import customers from CSV
+	6. Export customers to CSV
+	7. Show customer count
+	8. Exit
+
